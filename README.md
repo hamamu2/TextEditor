@@ -6,7 +6,7 @@
 ・ファイルの[ダウンロード](https://github.com/hamamu2/TextEditor/archive/refs/heads/main.zip)  
 ・ファイル内の[install](install.bat)を実行  
 ・ファイル内の[TextEditor](TextEditor.exe)を起動
-以上。
+以上。  
 
 ##サポート  
 Twitter[@Python5555](https://twitter.com/Python5555)
