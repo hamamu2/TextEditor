@@ -8,3 +8,5 @@
 ・ファイル内の[TextEditor](TextEditor.exe)を起動
 以上。
 
+##サポート
+Twitter[@Python5555](https://twitter.com/Python5555)
